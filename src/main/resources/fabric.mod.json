@@ -1,0 +1,29 @@
+{
+	"schemaVersion": 1,
+	"id": "stew-detective",
+	"version": "${version}",
+	"name": "Stew Detective",
+	"description": "Shows suspicious stew effects in the tooltip",
+	"authors": [
+		"Maganoos"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/U6o4T0ZN",
+        "issues": "https://github.com/Maganoos/stew-detective/issues",
+		"sources": "https://github.com/Maganoos/stew-detective"
+	},
+	"license": "MIT",
+	"icon": "assets/stew-detective/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"eu.magkari.mc.stewdetective.StewDetective"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.17.3",
+		"minecraft": ">=1.20.5",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
