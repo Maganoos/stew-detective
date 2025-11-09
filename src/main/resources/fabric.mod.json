@@ -20,6 +20,9 @@
 			"eu.magkari.mc.stewdetective.StewDetective"
 		]
 	},
+    "mixins":[
+      "stewdetective.mixins.json"
+    ],
 	"depends": {
 		"fabricloader": ">=0.17.3",
 		"minecraft": ">=1.21.5",

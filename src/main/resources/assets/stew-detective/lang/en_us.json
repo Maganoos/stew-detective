@@ -1,3 +1,5 @@
 {
-  "stew-detective.tooltip": "Effects: "
+  "stew-detective.tooltip": "Effects: ",
+  "stew-detective.command.hiii": "Held Item Info Integration is currently %s",
+  "stew-detective.command.hiii.set": "Set Held Item Info Integration to %s"
 }
