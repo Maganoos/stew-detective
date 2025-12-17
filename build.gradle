@@ -32,9 +32,6 @@ dependencies {
 	// Fabric API. This is technically optional, but you probably want it anyway.
 	modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
     modImplementation "maven.modrinth:held-item-info:${project.hii_version}"
-
-    modImplementation "maven.modrinth:cloth-config:21.11.151+fabric"
-    modRuntimeOnly "maven.modrinth:modmenu:17.0.0-alpha.1"
 }
 
 processResources {
