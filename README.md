@@ -6,5 +6,4 @@ This may be considered a cheat on some servers - so do get permission before usi
 
 ### Held Item Info
 There is an optional integration with the mod [Held Item Info](https://modrinth.com/mod/held-item-info) by [A5b84](https://modrinth.com/user/A5b84).
-This is only enabled both if the mod is installed and the config has it enabled
-The config can be accessed using the `/stewdetective` command, which lets you toggle `heldItemIntegration` on and off, as well as view its current value.
+It can be toggled within HII's config.

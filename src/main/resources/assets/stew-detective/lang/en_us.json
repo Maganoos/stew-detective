@@ -1,5 +1,4 @@
 {
   "stew-detective.tooltip": "Effects: ",
-  "stew-detective.command.hiii": "Held Item Info Integration is currently %s",
-  "stew-detective.command.hiii.set": "Set Held Item Info Integration to %s"
+  "text.autoconfig.held-item-info.option.showStewEffects": "Suspicious Stew Effects (Stew Detective)"
 }

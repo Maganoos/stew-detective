@@ -3,16 +3,16 @@
   "minVersion": "0.8",
   "package": "eu.magkari.mc.stewdetective.mixin",
   "compatibilityLevel": "JAVA_21",
-  "mixins": [],
   "client": [
-    "HIIToolTipBuilderMixin"
+    "HIIToolTipBuilderMixin",
+    "HIIAutoConfMixin",
+    "HIIConfigMixin"
   ],
-  "server": [],
   "injectors": {
     "defaultRequire": 1
   },
   "overwrites": {
     "requireAnnotations": true
   },
-  "plugin": "com.moulberry.mixinconstraints.ConstraintsMixinPlugin"
+  "plugin": "eu.magkari.mc.stewdetective.MixinPlugin"
 }
